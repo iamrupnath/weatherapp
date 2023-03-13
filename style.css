@@ -11,12 +11,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* background: ; */
-  background: url(/images/eath.jpg) no-repeat center center fixed;
+  background: #0881c7;
+ /* background: url(/images/eath.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover; */
 }
 
 .container {

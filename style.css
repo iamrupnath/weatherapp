@@ -11,12 +11,17 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* background: #0881c7; */
+  /* 
+  background: #0881c7; 
   background: url(/images/blur.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover; 
+  */
+  
+  background-image: linear-gradient(to right, #434343 0%, black 100%);
+  opacity: 0.8;
 }
 
 .container {
